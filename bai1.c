@@ -1,7 +1,7 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Lã Hải Đăng]
+ * MSSV:      [PS47692]
+ * Lớp:       [CS21301]
  *****************************************************************************/
 
 //  BÀI 1: XÂY DỰNG CHƯƠNG TRÌNH ĐẾM NGUYÊN ÂM VÀ PHỤ ÂM CỦA 1 CHUỖI 
@@ -31,7 +31,6 @@ int main() {
             phuAm++;
         }
     }
-
     printf("So luong nguyen am: %d\n", nguyenAm);
     printf("So luong phu am: %d\n", phuAm);
     return 0;
